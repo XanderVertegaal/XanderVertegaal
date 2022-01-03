@@ -36,10 +36,6 @@ Have a look at the pinned repos below to see how my journey into the world of we
                                                                                                    
 ---
 
-### ⭐ Key Projects
-
-
-
 <!--
 **XanderVertegaal/XanderVertegaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
