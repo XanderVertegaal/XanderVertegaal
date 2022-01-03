@@ -26,7 +26,7 @@ Have a look at the pinned repos below to see how my journey into the world of we
 * Testing: ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   
   
-  #### ⚙️ Back-end
+#### ⚙️ Back-end
   
 * Languages: ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
@@ -41,6 +41,8 @@ Have a look at the pinned repos below to see how my journey into the world of we
 ---
 
 ### ⭐ Key Projects
+
+
 
 <!--
 **XanderVertegaal/XanderVertegaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
