@@ -1,13 +1,9 @@
 ### 👋 Hi, welcome to my GitHub page!
 
-<p>
-<img src="https://user-images.githubusercontent.com/73882506/147939415-cb757b76-da96-4404-a5cf-e501f700b451.jpg" height="110px" style="margin-right: '20px'" align="left">
 
 * 👨‍💻 _Full-stack web developer (TypeScript, React, Python, Flask)_
 * 🔭 _Looking for a job as a junior front-end web developer!_
 * 👨‍🎓 _PhD in historical linguistics from Leiden University_
-
-</p>
   
 ---
 
