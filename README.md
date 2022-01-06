@@ -7,7 +7,7 @@
   
 ---
 
-Hi, I am **Xander**, a 29-year-old full-stack web developer from the Netherlands. After working as a linguistic researcher and university teacher with a passion for educational technology for several years, I am now broadening my view and ready to take on a new job as a web developer. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset whereever possible.
+Hi, I am **Xander**, a 29-year-old full-stack web developer from the Netherlands. After working as a linguistic researcher and university teacher with a passion for educational technology for several years, I am now broadening my view and ready to take on a new job as a web developer. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset wherever possible.
 
 My background is in both front-end and back-end technologies, but I especially love using **React** and **TypeScript** (with **Redux** for state management) to create beautiful, responsive and functional web applications.
 
