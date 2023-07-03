@@ -1,14 +1,14 @@
 ### 👋 Hi, welcome to my GitHub page!
 
 
-* 👨‍💻 _Full-stack web developer (TypeScript/Angular, Python/Django, GraphQL)_
-* 👨‍🎓 _PhD in historical linguistics from Leiden University_
+* 👨‍💻 _Full-stack web developer (TypeScript/Angular, Python/Django) at the Utrecht University Centre for Digital Humanities_
+* 👨‍🎓 _PhD in historical linguistics from the Leiden University Centre for Linguistics_
 * 🔭 _Interested in building web applications for linguistic research/language learning_
 * 🌱 _Currently exploring Svelte, SvelteKit and Deno_
   
 ---
 
-Hi, I am **Xander**, a 30-year-old full-stack web developer from the Netherlands. After working as a linguistic researcher and university teacher with a passion for educational technology for several years, I now design, build and maintain complex web platforms at Vasio BV in The Hague. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset wherever possible.
+Hi, I am **Xander**, a 31-year-old full-stack web developer from the Netherlands. After working as a linguistic researcher and university teacher with a passion for educational technology for several years, I now design and develop software tools and web applications at the Utrecht University Centre for Digital Humanities. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset wherever possible.
 
 My background is in both front-end and back-end technologies, but I especially love using **Angular** to create beautiful, responsive and functional frontends. In the past, I have also used **React** (with **Redux** for state management) and am currently exploring **Svelte(Kit)** and **Deno** all strongly typed with **TypeScript** of course.
 
