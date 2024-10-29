@@ -8,7 +8,7 @@
   
 ---
 
-Hi, I am **Xander**, a 31-year-old full-stack web developer from the Netherlands. After working as a linguistic researcher and university teacher with a passion for educational technology for several years, I now design and develop software tools and web applications at the Utrecht University Centre for Digital Humanities. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset wherever possible.
+Hi, I am **Xander**, a full-stack web developer from the Netherlands. After working as a linguistic researcher and university teacher with a passion for educational technology for several years, I now design and develop software tools and web applications at the Utrecht University Centre for Digital Humanities. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset wherever possible.
 
 My background is in both front-end and back-end technologies, but I especially love using **Angular** to create beautiful, responsive and functional frontends. In the past, I have also used **React** (with **Redux** for state management) and am currently exploring **Svelte(Kit)** and **Deno** all strongly typed with **TypeScript** of course.
 
